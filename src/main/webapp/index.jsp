@@ -51,7 +51,7 @@
 <!-- Main jumbotron for a primary marketing message or call to action -->
 <div class="jumbotron">
     <div class="container">
-        <img src="wipro.jpg">
+        <img src="wipro.jpg" width="200" height="200">
        </div> 
     <div class="container">
         <h1 style="color:red;">Hello This is Raj from Devops</h1>
