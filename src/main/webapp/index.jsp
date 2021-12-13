@@ -51,9 +51,7 @@
 <!-- Main jumbotron for a primary marketing message or call to action -->
 <div class="jumbotron">
     <div class="container">
-        <img src="wipro.jpg" width="200" height="200">
-       </div> 
-    <div class="container">
+            <div class="container">
         <h1 style="color:red;">Hello This is Raj from Devops</h1>
         <p>This is from Test Environment </p>
         <p><a class="btn btn-primary btn-lg" role="button">Learn more &raquo;</a></p>
