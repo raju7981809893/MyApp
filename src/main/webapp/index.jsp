@@ -52,7 +52,7 @@
 <div class="jumbotron">
     <div class="container">
             <div class="container">
-        <h1 style="color:red;">Hello This is Raj from Devops</h1>
+        <h1 style="color:red;">Hello This is Raju from Devops</h1>
         <p>This is from Test Environment </p>
         <p><a class="btn btn-primary btn-lg" role="button">Learn more &raquo;</a></p>
     </div>
